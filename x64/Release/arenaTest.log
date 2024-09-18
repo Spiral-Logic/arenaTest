@@ -1,0 +1,6 @@
+﻿  Application.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  arenaTest.vcxproj -> C:\Users\Angel\dev\personal\arenaTest\x64\Release\arenaTest.exe
